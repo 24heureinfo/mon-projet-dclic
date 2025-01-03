@@ -1,3 +1,4 @@
+
 C:\Users\pc>mkdir mon-projet-dclic
 Un sous-répertoire ou un fichier mon-projet-dclic existe déjà.
 
@@ -8,5 +9,26 @@ C:\Users\pc\mon-projet-dclic>git init
 Reinitialized existing Git repository in C:/Users/pc/mon-projet-dclic/.git/
 
 C:\Users\pc\mon-projet-dclic>echo. > README.md #
+
+C:\Users\pc\mon-projet-dclic>C:\Users\pc\Desktop\rapport.docx
+Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+C:\Users\pc\mon-projet-dclic>git add README.md
+
+C:\Users\pc\mon-projet-dclic>git commit -m "Premier commit"
+[master (root-commit) 8c58729] Premier commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+C:\Users\pc\mon-projet-dclic>echoC:\Users\pc\Desktop\rapport.docx
+La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte.
+
+C:\Users\pc\mon-projet-dclic>C:\Users\pc\Desktop\rapport.docx
+
+C:\Users\pc\mon-projet-dclic>git add README.md
+
+C:\Users\pc\mon-projet-dclic>git commit -m "Premier commit"
+On branch master
+nothing to commit, working tree clean
 
 C:\Users\pc\mon-projet-dclic>
